@@ -19,11 +19,16 @@
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
+    "autoprefixer": "^9.8.5",
     "babel-loader": "^8.1.0",
     "babel-preset-airbnb": "^5.0.0",
+    "css-loader": "^4.0.0",
     "eslint": "^7.5.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
+    "node-sass": "^4.14.1",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^9.0.2",
     "webpack": "^4.44.0",
     "webpack-cli": "^3.3.12"
   }

@@ -2,7 +2,7 @@
   "name": "frontend-template",
   "version": "0.1.0",
   "description": "Develop your frontend projects with webpack, es6+, scss and more.",
-  "main": "src/index.js",
+  "main": "src/js/index.js",
   "scripts": {
     "build": "node_modules/.bin/webpack --config webpack.config.js --mode=production",
     "watch": "node_modules/.bin/webpack --config webpack.config.js --mode=development -w",
